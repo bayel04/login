@@ -18,8 +18,7 @@
 			<input type="submit" type="submit" value="LOGIN" class="btn-login"/>
 		</form>
 	</div>
-</body>
-</html>
+
    body{
 	margin: 0 auto;
 	background-image: url("../image/technology.jpg");
@@ -72,7 +71,8 @@ input[type="text"],input[type="password"]{
 	background-color: #27ae60;
 	color: #fff;
 }
- 
+ </body>
+</html>
 
  
 
