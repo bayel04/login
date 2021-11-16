@@ -19,7 +19,7 @@ input[type=text], input[type=password] {bayel,1234
 /* Set a style for all buttons */
 button {
     background-color: #4CAF50;
-    color: white;
+    color: grey;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
