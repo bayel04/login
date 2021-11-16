@@ -128,7 +128,7 @@ span.psw {
 </head>
 <body>
 
-<h2>Modal Login Form</h2>
+<h2>Entrace to the portfolio Bayel</h2>
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
 
@@ -137,7 +137,7 @@ span.psw {
   <form class="modal-content animate" action="https://baiel.herokuapp.com/">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
-      <img src="img_avatar2.png" alt="Avatar" class="avatar">
+      <img src="https://phonoteka.org/uploads/posts/2021-06/1624033739_37-phonoteka_org-p-voleibol-oboi-krasivo-41.png" alt="Avatar" class="avatar">
     </div>
 
     <div class="container">
