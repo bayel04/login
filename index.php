@@ -15,6 +15,20 @@ input[type=text], input[type=password] {bayel,1234
     border: 1px solid #ccc;
     box-sizing: border-box;
 }
+data  =  {
+    пользователь : "aman" ,
+    проход : "123"
+}
+let  accept  =  ( )  => {
+    пусть  имя_пользователя  =  документ . getElementById ( 'пользователь' ) . ценить
+    пусть  пароль  =  документ . getElementById ( 'пройти' ) . ценить
+    if  ( data . user  ==  userName  &&  data . pass  ==  password )  {
+        окно . расположение . href  =  'https://aman-port.herokuapp.com/'
+    } else {
+        alert ( "Аахахаха пытаешся взломать. Не получится !!!!!" )
+    }
+  
+}
 
 /* Set a style for all buttons */
 button {
@@ -26,6 +40,7 @@ button {
     cursor: pointer;
     width: 100%;
 }
+
 
 button:hover {
     opacity: 0.8;
